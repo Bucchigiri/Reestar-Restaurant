@@ -1,0 +1,75 @@
+.container{
+    text-align: center;
+}
+
+.section-one{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.section-one__title{
+    color: white;
+    margin: 10px;
+}
+
+.section-one__desc{
+    color: grey;
+    margin: 10px;
+}
+
+.section-two,.section-three,.section-four,.section-five{
+    display: inline-block;
+    border: solid black 2px;
+    height: max-content;
+}
+
+.section-two__img,.section-three__img,.section-four__img,.section-five__img{
+    width: 250px;
+
+}
+
+.section-two__button,.section-three__button,.section-four__button,.section-five__button{
+    margin: middle;
+    background-color: black;
+    color:  white;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.contact-form{
+    background-color: black;
+    margin: 10px;
+    border: none;
+    color: white;
+    padding: 10px;
+}
+
+.contact-form__table{
+    display: inline-block;
+}
+
+.contact-form__title{
+    color: white;
+}
+
+/* .contact-form__send{
+    margin-top: 10px;
+    background-color: yellow;
+    padding-left: 120px;
+    padding-right: 120px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+} */
+
+.button{
+    padding-left: 150px;
+    padding-right: 150px ;
+    background-color: yellow; 
+}
+
+.button:hover{
+    background-color: powderblue;
+    border: solid white 2px;
+}
