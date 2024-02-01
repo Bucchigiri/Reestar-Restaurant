@@ -4,7 +4,7 @@ Welcome to Reestar Restaurant! 🍽️
 
 To check the Page out !!!! Click on the below Link. 
 
-[Reestar Restaurant](path/to/restaurant_images.jpg](https://bucchigiri.github.io/Reestar-Restaurant/))
+[[Reestar Restaurant](https://bucchigiri.github.io/Reestar-Restaurant/)]
 
 Explore the culinary delights of Reestar Restaurant through this simple HTML and CSS webpage. The design features four captivating images showcasing our delectable dishes and a convenient "Contact Us" column at the end. Dive into a visual feast of flavors and connect with us for reservations or inquiries.
 
